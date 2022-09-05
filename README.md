@@ -1,4 +1,4 @@
-DEMO LINK - https://stanis-tsv.github.io/vue-rest-api-axios-firebase/
+DEMO LINK - https://stanis-tsv.github.io/vue-rest-api-axios-firebase
 
 Vue.js app, working with Firebase database via REST API: 
 - Using POST, GET, PUT, DELETE
